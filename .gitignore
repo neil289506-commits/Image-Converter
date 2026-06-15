@@ -1,0 +1,13 @@
+# 編譯產物
+release/
+debug/
+*.obj
+*.pch
+*.stash
+Makefile*
+
+# 部署資料夾
+Dist/
+
+# VS 快取
+.vs/
